@@ -703,7 +703,8 @@ class AuroraInterface:
             "server_name": "0.0.0.0",
             "server_port": 7860,
             "show_error": True,
-            "quiet": False
+            "quiet": False,
+            "share": True
         }
         default_kwargs.update(kwargs)
         self.interface.queue().launch(**default_kwargs)  # queue() needed for yield
