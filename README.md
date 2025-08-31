@@ -1,4 +1,4 @@
-# AudioBook Creator
+# Aurora AudioBook 
 
 Transform any PDF into an audiobook using your own voice! This application combines OCR, text-to-speech, and voice cloning to create personalized audiobooks.
 
@@ -169,3 +169,4 @@ For issues related to:
 ---
 
 **Happy audiobook creation!**
+
