@@ -1,0 +1,4 @@
+ocrmypdf
+ffmpeg
+tesseract-ocr
+tesseract-ocr-eng

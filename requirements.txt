@@ -1,0 +1,6 @@
+gradio>=4.0.0
+PyMuPDF>=1.23.0
+python-dotenv>=1.0.0
+pydub>=0.25.1
+requests>=2.31.0
+openvoice-cli>=0.0.5
